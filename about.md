@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ![](/assets/Headshot.png)
-I'm passionate about solving problems and helping people. That's why I wanted to get my PhD: so that I could do research that I find meaningful. 
+I am passionate about solving problems and helping people. That's why I wanted to get my PhD: so that I could do research that I find meaningful. 
 
 Here are some of the organizations I am involved with:
 
