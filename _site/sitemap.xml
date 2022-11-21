@@ -2,7 +2,7 @@
   
         
     <url>
-      <loc>https://noir.essentialenemy.com/First-Post/</loc>
+      <loc>http://jost.engineer/First-Post/</loc>
       <lastmod>2021-03-30T04:00:00-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -12,117 +12,117 @@
   
     
   <url>
-    <loc>https://noir.essentialenemy.com/404.html</loc>
+    <loc>http://jost.engineer/404.html</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://noir.essentialenemy.com/about/</loc>
-    
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://noir.essentialenemy.com/announcements.xml</loc>
+    <loc>http://jost.engineer/about/</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://noir.essentialenemy.com/archive/</loc>
-    
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://noir.essentialenemy.com/categories/</loc>
+    <loc>http://jost.engineer/announcements.xml</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://noir.essentialenemy.com/feed.xml</loc>
-    
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://noir.essentialenemy.com/</loc>
+    <loc>http://jost.engineer/archive/</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://noir.essentialenemy.com/publications/</loc>
-    
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://noir.essentialenemy.com/research/</loc>
+    <loc>http://jost.engineer/categories/</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://noir.essentialenemy.com/sitemap.xml</loc>
-    
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://noir.essentialenemy.com/styles/</loc>
+    <loc>http://jost.engineer/feed.xml</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>https://noir.essentialenemy.com/styles.css</loc>
-    
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://noir.essentialenemy.com/tags/</loc>
+    <loc>http://jost.engineer/</loc>
     
-      <lastmod>2021-03-31T08:14:36-05:00</lastmod>
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://jost.engineer/publications/</loc>
+    
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://jost.engineer/research/</loc>
+    
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://jost.engineer/sitemap.xml</loc>
+    
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://jost.engineer/styles/</loc>
+    
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://jost.engineer/styles.css</loc>
+    
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>http://jost.engineer/tags/</loc>
+    
+      <lastmod>2022-11-21T16:40:24-06:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>

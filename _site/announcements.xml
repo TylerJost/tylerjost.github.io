@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tyler Jost</title>
- <link href="https://noir.essentialenemy.com/announcements.xml" rel="self"/>
- <link href="https://noir.essentialenemy.com/"/>
- <updated>2021-03-31T08:14:36-05:00</updated>
- <id>https://noir.essentialenemy.com</id>
+ <link href="http://jost.engineer/announcements.xml" rel="self"/>
+ <link href="http://jost.engineer/"/>
+ <updated>2022-11-21T16:40:24-06:00</updated>
+ <id>http://jost.engineer</id>
  <author>
    <name>Tyler Jost</name>
    <email>tyler_jost@utexas.edu</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Website Goals</title>
-   <link href="https://noir.essentialenemy.com/First-Post/"/>
+   <link href="http://jost.engineer/First-Post/"/>
    <updated>2021-03-30T04:00:00-05:00</updated>
-   <id>https://noir.essentialenemy.com/First-Post</id>
+   <id>http://jost.engineer/First-Post</id>
    <content type="html">&lt;p&gt;This is my first post for my website. Ever since I was a kid, I wanted a website. Why? I am not sure, but I definitely thought it would be cool. Back then, most online communication was done through forums and personal websites like those hosted on angelfire and freewebs.com. I even borrowed a book from the library about how to make a website. The allure of people visiting my website (purpose still undefined) and making a visitor counter made of flames rapidly rise was apparently very strong. Unfortunately, learning to change the color of a website is relatively dull so I never ended up getting a domain name. I think this desire remained, however, so when a &lt;a href=&quot;https://dayl.in/&quot;&gt;coworker&lt;/a&gt; made his own my interest was renewed.&lt;/p&gt;
 
 &lt;p&gt;My goals for this website are:&lt;/p&gt;
