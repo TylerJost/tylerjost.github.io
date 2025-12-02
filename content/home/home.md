@@ -9,7 +9,7 @@ draft = false
     title="Hi, I'm Tyler"
     subtitle="I'm a Machine Learning Engineer and Computational Biologist in Boston."
     buttonText=""
-    description="<strong>This is my website, check it out!</strong><br/> I'm a computational biologist working at the intersection of cancer and machine learning. I work to develop models that generate novel biological hypotheses at Harvard Medical School in the <a href=\"https://www.labsyspharm.org\">Laboratory for Systems Pharmacology</a> and <a href=\"https://nirmallab.com\">Nirmal Lab</a> using AI and digital pathology. Before this I did both wet and dry lab with single-cell RNA sequencing in the <a href=\"https://www.brocklab.com\">Brock Lab</a>."
+    description="<strong>This is my website, check it out!</strong><br/> I'm a computational biologist working at the intersection of cancer and machine learning. I work to develop models that generate novel biological hypotheses at Harvard Medical School in the <a href=\"https://www.labsyspharm.org\">Laboratory for Systems Pharmacology</a> and <a href=\"https://nirmallab.com\">Nirmal Lab</a> using AI and digital pathology. Before this I did both wet and dry lab with single-cell RNA sequencing in the <a href=\"https://www.brocklab.com\">Brock Lab</a>. <br/> If you want to know more about me, check out my GitHub (below) or email me at ty.jost [at] gmail.com" 
     imgSrc="images/showcase/medeblur.jpg"
     imgScale="0.5"
  >}}

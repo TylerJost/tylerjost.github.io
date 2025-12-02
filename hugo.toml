@@ -160,11 +160,11 @@ weight = 5
 # URL = "/twia"
 # weight = 5
 
-[[languages.en.menus.header]]
-pre = "email"
-name = "email"
-URL = "#contact"
-weight = 6
+# [[languages.en.menus.header]]
+# pre = "email"
+# name = "email"
+# URL = "#contact"
+# weight = 6
 
 [[languages.en.menus.header]]
 # pre = "search"
