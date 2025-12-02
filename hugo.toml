@@ -65,7 +65,7 @@ target = "assets/css/bootstrap-print.css"
 [params]
 title = 'jost.engineer'
 description = ''
-images = ['/img/og-img.png']
+images = ['']
 sections = [
   "showcase",
   "about",
