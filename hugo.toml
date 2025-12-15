@@ -156,9 +156,9 @@ URL = "/blog"
 weight = 5
 
 [[languages.en.menus.header]]
-# name = "twia"
-# URL = "/twia"
-# weight = 5
+name = "twim"
+URL = "/twim"
+weight = 5
 
 # [[languages.en.menus.header]]
 # pre = "email"

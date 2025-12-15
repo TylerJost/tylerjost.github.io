@@ -3,7 +3,7 @@ title: "Why I Retooled My Website"
 date: 2025-11-30
 draft: false
 type: 'blog'
-featured: true
+featured: false
 tags: 
   - compbio
   - programming
