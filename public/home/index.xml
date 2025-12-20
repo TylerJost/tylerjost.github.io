@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;!-- &lt;em&gt;italic&lt;/em&gt; and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'&gt;&lt;code&gt;home.md&lt;/code&gt;&lt;/a&gt;, using the &lt;code&gt;showcase-section&lt;/code&gt; &lt;a href=''&gt;shortcode&lt;/a&gt;. --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://jost.engineer/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="https://jost.engineer/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://jost.engineer/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jost.engineer/home/home/</guid><description>&lt;!-- &lt;em&gt;italic&lt;/em&gt; and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'&gt;&lt;code&gt;home.md&lt;/code&gt;&lt;/a&gt;, using the &lt;code&gt;showcase-section&lt;/code&gt; &lt;a href=''&gt;shortcode&lt;/a&gt;. --&gt;
 
 
 
@@ -20,7 +20,7 @@
  &lt;span&gt;I'm a Machine Learning Engineer and Computational Biologist in Boston.&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- &lt;strong&gt;This is my website, check it out!&lt;/strong&gt;&lt;br/&gt; I'm a computational biologist working at the intersection of cancer and machine learning. I work to develop models that generate novel biological hypotheses at Harvard Medical School in the &lt;a href="https://www.labsyspharm.org"&gt;Laboratory for Systems Pharmacology&lt;/a&gt; and &lt;a href="https://nirmallab.com"&gt;Nirmal Lab&lt;/a&gt; using AI and digital pathology. Before this I did both wet and dry lab with single-cell RNA sequencing in the &lt;a href="https://www.brocklab.com"&gt;Brock Lab&lt;/a&gt;. &lt;br/&gt; If you want to know more about me, check out my GitHub (below) or email me at ty.jost [at] gmail.com
+ &lt;strong&gt;This is my website, check it out!&lt;/strong&gt;&lt;br/&gt; I'm a computational biologist working at the intersection of cancer and machine learning. I work to develop models that generate novel biological hypotheses at Harvard Medical School in the &lt;a href="https://www.labsyspharm.org"&gt;Laboratory for Systems Pharmacology&lt;/a&gt; and &lt;a href="https://nirmallab.com"&gt;Nirmal Lab&lt;/a&gt; using AI and digital pathology. Before this I did both wet and dry lab with single-cell RNA sequencing in the &lt;a href="https://www.brocklab.com"&gt;Brock Lab&lt;/a&gt;. &lt;br/&gt; If you're interested in finding a playlist of artists playing in Boston or Austin this week check out the TWiM tab above! &lt;br/&gt; If you want to know more about me, check out my GitHub (below) or email me at ty.jost [at] gmail.com 
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -49,14 +49,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/medeblur_hu_da0f06f7a1cb174b.webp 1x, http://localhost:1313/images/showcase/medeblur_hu_3910b0b5e3e08c8b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/medeblur_hu_643d6c077c4d7409.jpg 1x, http://localhost:1313/images/showcase/medeblur_hu_e7894c5dcfeb5981.jpg 2x" type="image/jpeg"&gt;
+ &lt;source srcset="https://jost.engineer/images/showcase/medeblur_hu_da0f06f7a1cb174b.webp 1x, https://jost.engineer/images/showcase/medeblur_hu_3910b0b5e3e08c8b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://jost.engineer/images/showcase/medeblur_hu_643d6c077c4d7409.jpg 1x, https://jost.engineer/images/showcase/medeblur_hu_e7894c5dcfeb5981.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
  width="510"
  height="463"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/medeblur_hu_643d6c077c4d7409.jpg"
+ data-src="https://jost.engineer/images/showcase/medeblur_hu_643d6c077c4d7409.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -131,7 +131,7 @@
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="dribbble"
@@ -141,7 +141,7 @@
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="behance"
@@ -151,7 +151,7 @@
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="youtube"
@@ -181,7 +181,7 @@
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="codepen"
@@ -329,14 +329,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/boston_hu_b13655339c97aee2.webp 1x, http://localhost:1313/images/about/boston_hu_9cafad9b9bdd4e17.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/boston_hu_cb0c53ba6099944.png 1x, http://localhost:1313/images/about/boston_hu_ca35c9a32e62f3ef.png 2x" type="image/png"&gt;
+ &lt;source srcset="https://jost.engineer/images/about/boston_hu_b13655339c97aee2.webp 1x, https://jost.engineer/images/about/boston_hu_9cafad9b9bdd4e17.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://jost.engineer/images/about/boston_hu_cb0c53ba6099944.png 1x, https://jost.engineer/images/about/boston_hu_ca35c9a32e62f3ef.png 2x" type="image/png"&gt;
 
  &lt;img
  width="1158"
  height="543"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/boston_hu_cb0c53ba6099944.png"
+ data-src="https://jost.engineer/images/about/boston_hu_cb0c53ba6099944.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -432,7 +432,7 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -457,7 +457,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3.es-copy/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-3.es-copy/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -479,7 +479,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -503,13 +503,13 @@ My most significant achievement was the successful implementation of a machine l
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
  
  &lt;img 
- src="http://localhost:1313/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
+ src="https://jost.engineer/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -575,7 +575,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4"&gt;
  &lt;a
- href='http://localhost:1313/skills'
+ href='https://jost.engineer/skills'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -589,7 +589,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4"&gt;
  &lt;a
- href='http://localhost:1313/experience'
+ href='https://jost.engineer/experience'
  class="btn btn-frameless w-100"
  rel="noopener noreferrer"
  &gt;

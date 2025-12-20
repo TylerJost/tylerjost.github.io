@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Why I Retooled My Website</title><link>http://localhost:1313/blog/2025-11-30_retoolwebsite/</link><pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/2025-11-30_retoolwebsite/</guid><description>&lt;h1 id="why-revive-a-website-4-years-later"&gt;Why Revive A Website 4 Years Later?&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;ve had a website for a while, about 2021ish. It was an &amp;ldquo;I&amp;rsquo;m bored&amp;rdquo; pandemic project meant to showcase my work. I always wanted a website, but making one still requires deciding on a framework, getting a theme that fits you, and then debugging all of the tiny little problems. Overall, it&amp;rsquo;s not hard but it&amp;rsquo;s not exactly common. More and more I&amp;rsquo;m convinced that personal websites need to make a comeback. Here&amp;rsquo;s a few thoughts on why I&amp;rsquo;m devoting more time to writing posts on my personal website.&lt;/p&gt;</description></item><item><title>Job #3</title><link>http://localhost:1313/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-3/</guid><description>&lt;h2 id="3rd-job-cio"&gt;3rd job: CIO&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://jost.engineer/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jost.engineer/index.xml" rel="self" type="application/rss+xml"/><item><title>This Week in Music (TWiM)</title><link>https://jost.engineer/blog/thisweekinmusic/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://jost.engineer/blog/thisweekinmusic/</guid><description>&lt;p&gt;I love listening to concerts, but it&amp;rsquo;s often tough to find bands playing in time to buy tickets, let alone decide if I think it&amp;rsquo;s worth it to spend my time and money to go and support new artists. So I built TWiM, a tool that finds concerts and builds playlists for them automatically. Fortunately for me, there are plenty of city-specific websites that have info on upcoming concerts! My idea was simple: write a program that would load the artists for the next week and make a Spotify playlist using &lt;a href="https://spotipy.readthedocs.io/en/2.25.2/"&gt;spotipy&lt;/a&gt;. Easy enough, right?&lt;/p&gt;</description></item><item><title>Why I Retooled My Website</title><link>https://jost.engineer/blog/retoolwebsite/</link><pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate><guid>https://jost.engineer/blog/retoolwebsite/</guid><description>&lt;h1 id="why-revive-a-website-4-years-later"&gt;Why Revive A Website 4 Years Later?&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve had a website for a while, about 2021ish. It was an &amp;ldquo;I&amp;rsquo;m bored&amp;rdquo; pandemic project meant to showcase my work. I always wanted a website, but making one still requires deciding on a framework, getting a theme that fits you, and then debugging all of the tiny little problems. Overall, it&amp;rsquo;s not hard but it&amp;rsquo;s not exactly common. More and more I&amp;rsquo;m convinced that personal websites need to make a comeback. Here&amp;rsquo;s a few thoughts on why I&amp;rsquo;m devoting more time to writing posts on my personal website.&lt;/p&gt;</description></item><item><title>Job #3</title><link>https://jost.engineer/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>https://jost.engineer/experience/job-3/</guid><description>&lt;h2 id="3rd-job-cio"&gt;3rd job: CIO&lt;/h2&gt;
 &lt;p&gt;As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p&gt;
-&lt;p&gt;During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Graziella Nutella</title><link>http://localhost:1313/testimonial/graziella-nutella/</link><pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate><guid>http://localhost:1313/testimonial/graziella-nutella/</guid><description>&lt;p&gt;The content of this section comes from the &lt;code&gt;content/testimonial&lt;/code&gt; folder contents. This that you see is in &lt;code&gt;content/testimonial/graziella-nutella.md&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Graziella Nutella</title><link>https://jost.engineer/testimonial/graziella-nutella/</link><pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate><guid>https://jost.engineer/testimonial/graziella-nutella/</guid><description>&lt;p&gt;The content of this section comes from the &lt;code&gt;content/testimonial&lt;/code&gt; folder contents. This that you see is in &lt;code&gt;content/testimonial/graziella-nutella.md&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;You can also use parameters for configuration:&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;name: &amp;#34;Nutting Hill&amp;#34; # place/city/country for the experience. Fill-in.
 position: &amp;#34;Nutcracker&amp;#34; # from-to, for example &amp;#34;2022-2024&amp;#34;. Fill-in.
@@ -10,7 +10,7 @@ params:
  image:
  src: &amp;#34;images/testimonials/testimonial1.png&amp;#34; # example: &amp;#34;images/clients/asgardia.png&amp;#34;
  scale: 0.5
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Dana Oneal</title><link>http://localhost:1313/testimonial/dana-oneal/</link><pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate><guid>http://localhost:1313/testimonial/dana-oneal/</guid><description>&lt;p&gt;I had the pleasure of working with this freelancer on several projects, and their performance has been nothing short of outstanding. They bring a high level of expertise, creativity, and dedication to every task. Their ability to understand project requirements and deliver exceptional results on time is truly impressive. They are a reliable and proactive professional who consistently exceeds expectations. I highly recommend this freelancer to anyone seeking top-notch skills and a collaborative partner.&lt;/p&gt;</description></item><item><title>Ferdinand Shermand</title><link>http://localhost:1313/testimonial/ferdinand-shermand/</link><pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate><guid>http://localhost:1313/testimonial/ferdinand-shermand/</guid><description>&lt;p&gt;Working with this colleague has been an absolute pleasure. Their dedication, professionalism, and positive attitude make them an invaluable asset to our team. They consistently go above and beyond to ensure that projects are completed on time and to the highest standard. Their ability to collaborate effectively and support their colleagues is truly commendable. I am continually impressed by their innovative thinking and problem-solving skills. This colleague is not just a team member but a true inspiration and a driving force behind our team’s success.&lt;/p&gt;</description></item><item><title>University of Life</title><link>http://localhost:1313/education/phd/</link><pubDate>Fri, 25 Oct 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/education/phd/</guid><description/></item><item><title>University of Life</title><link>http://localhost:1313/education/ms/</link><pubDate>Wed, 25 Sep 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/education/ms/</guid><description/></item><item><title>Ztos</title><link>http://localhost:1313/client-work/ztos/</link><pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate><guid>http://localhost:1313/client-work/ztos/</guid><description/></item><item><title>Zoo</title><link>http://localhost:1313/client-work/zoo/</link><pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate><guid>http://localhost:1313/client-work/zoo/</guid><description/></item><item><title>Kanba</title><link>http://localhost:1313/client-work/kanba/</link><pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate><guid>http://localhost:1313/client-work/kanba/</guid><description/></item><item><title>Goldline</title><link>http://localhost:1313/client-work/goldline/</link><pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate><guid>http://localhost:1313/client-work/goldline/</guid><description/></item><item><title>Earth 2.0</title><link>http://localhost:1313/client-work/earth2.0/</link><pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate><guid>http://localhost:1313/client-work/earth2.0/</guid><description/></item><item><title>Asgardia</title><link>http://localhost:1313/client-work/asgardia/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/client-work/asgardia/</guid><description/></item><item><title>Radity Finance - UI Kit</title><link>http://localhost:1313/projects/radity-finance-uikit/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/radity-finance-uikit/</guid><description>&lt;p&gt;We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p&gt;</description></item><item><title>Robo Advisor</title><link>http://localhost:1313/projects/robo-advisor/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/robo-advisor/</guid><description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description></item><item><title>Swiss Fintech Website</title><link>http://localhost:1313/projects/swiss-fintech/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/swiss-fintech/</guid><description>&lt;p&gt;Here you can add additional context, description, links, etc.
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Dana Oneal</title><link>https://jost.engineer/testimonial/dana-oneal/</link><pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate><guid>https://jost.engineer/testimonial/dana-oneal/</guid><description>&lt;p&gt;I had the pleasure of working with this freelancer on several projects, and their performance has been nothing short of outstanding. They bring a high level of expertise, creativity, and dedication to every task. Their ability to understand project requirements and deliver exceptional results on time is truly impressive. They are a reliable and proactive professional who consistently exceeds expectations. I highly recommend this freelancer to anyone seeking top-notch skills and a collaborative partner.&lt;/p&gt;</description></item><item><title>Ferdinand Shermand</title><link>https://jost.engineer/testimonial/ferdinand-shermand/</link><pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate><guid>https://jost.engineer/testimonial/ferdinand-shermand/</guid><description>&lt;p&gt;Working with this colleague has been an absolute pleasure. Their dedication, professionalism, and positive attitude make them an invaluable asset to our team. They consistently go above and beyond to ensure that projects are completed on time and to the highest standard. Their ability to collaborate effectively and support their colleagues is truly commendable. I am continually impressed by their innovative thinking and problem-solving skills. This colleague is not just a team member but a true inspiration and a driving force behind our team’s success.&lt;/p&gt;</description></item><item><title>University of Life</title><link>https://jost.engineer/education/phd/</link><pubDate>Fri, 25 Oct 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/education/phd/</guid><description/></item><item><title>University of Life</title><link>https://jost.engineer/education/ms/</link><pubDate>Wed, 25 Sep 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/education/ms/</guid><description/></item><item><title>Ztos</title><link>https://jost.engineer/client-work/ztos/</link><pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate><guid>https://jost.engineer/client-work/ztos/</guid><description/></item><item><title>Zoo</title><link>https://jost.engineer/client-work/zoo/</link><pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate><guid>https://jost.engineer/client-work/zoo/</guid><description/></item><item><title>Kanba</title><link>https://jost.engineer/client-work/kanba/</link><pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate><guid>https://jost.engineer/client-work/kanba/</guid><description/></item><item><title>Goldline</title><link>https://jost.engineer/client-work/goldline/</link><pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate><guid>https://jost.engineer/client-work/goldline/</guid><description/></item><item><title>Earth 2.0</title><link>https://jost.engineer/client-work/earth2.0/</link><pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate><guid>https://jost.engineer/client-work/earth2.0/</guid><description/></item><item><title>Asgardia</title><link>https://jost.engineer/client-work/asgardia/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/client-work/asgardia/</guid><description/></item><item><title>Radity Finance - UI Kit</title><link>https://jost.engineer/projects/radity-finance-uikit/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/projects/radity-finance-uikit/</guid><description>&lt;p&gt;We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p&gt;</description></item><item><title>Robo Advisor</title><link>https://jost.engineer/projects/robo-advisor/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/projects/robo-advisor/</guid><description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description></item><item><title>Swiss Fintech Website</title><link>https://jost.engineer/projects/swiss-fintech/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/projects/swiss-fintech/</guid><description>&lt;p&gt;Here you can add additional context, description, links, etc.
 The content you see here comes from the contents of the &lt;code&gt;content/projects&lt;/code&gt; folder.&lt;/p&gt;
 &lt;p&gt;This project is in the file &lt;code&gt;projects/swiss-fintech.md&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;In the markdown file frontmatter you can also define additional parameters, such as the link:&lt;/p&gt;
@@ -25,12 +25,12 @@ params:
  src: &amp;#34;images/works/swissfintech.jpg&amp;#34;
  scale: 0.5
  
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>University of Life</title><link>http://localhost:1313/education/undergrad/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/education/undergrad/</guid><description/></item><item><title>Trabajo #3</title><link>http://localhost:1313/experience/job-3.es-copy/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-3.es-copy/</guid><description>&lt;h2 id="arreglando-el-mundo-un-byte-a-la-vez"&gt;Arreglando el mundo, un byte a la vez&lt;/h2&gt;
-&lt;p&gt;¡Adquisición hostil - ¿quién es el jefe ahora?!&lt;/p&gt;</description></item><item><title>Job #2</title><link>http://localhost:1313/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-2/</guid><description>&lt;h2 id="2nd-job-chief-intern"&gt;2nd job: Chief Intern&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>University of Life</title><link>https://jost.engineer/education/undergrad/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>https://jost.engineer/education/undergrad/</guid><description/></item><item><title>Trabajo #3</title><link>https://jost.engineer/experience/job-3.es-copy/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate><guid>https://jost.engineer/experience/job-3.es-copy/</guid><description>&lt;h2 id="arreglando-el-mundo-un-byte-a-la-vez"&gt;Arreglando el mundo, un byte a la vez&lt;/h2&gt;
+&lt;p&gt;¡Adquisición hostil - ¿quién es el jefe ahora?!&lt;/p&gt;</description></item><item><title>Job #2</title><link>https://jost.engineer/experience/job-2/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate><guid>https://jost.engineer/experience/job-2/</guid><description>&lt;h2 id="2nd-job-chief-intern"&gt;2nd job: Chief Intern&lt;/h2&gt;
 &lt;p&gt;As Chief Intern at Internet Affairs Inc., I led several key initiatives that helped streamline our internal processes and boost productivity. Working closely with cross-functional teams, I developed and implemented an automated documentation system that reduced report generation time by 65% and improved accuracy by 40%.&lt;/p&gt;
-&lt;p&gt;During my internship, I spearheaded the company&amp;rsquo;s first-ever &amp;ldquo;Innovation Lab&amp;rdquo; program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company&amp;rsquo;s internship structure.&lt;/p&gt;</description></item><item><title>Job #1</title><link>http://localhost:1313/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-1/</guid><description>&lt;h2 id="1st-job-junior-intern"&gt;1st job: Junior Intern&lt;/h2&gt;
+&lt;p&gt;During my internship, I spearheaded the company&amp;rsquo;s first-ever &amp;ldquo;Innovation Lab&amp;rdquo; program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company&amp;rsquo;s internship structure.&lt;/p&gt;</description></item><item><title>Job #1</title><link>https://jost.engineer/experience/job-1/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://jost.engineer/experience/job-1/</guid><description>&lt;h2 id="1st-job-junior-intern"&gt;1st job: Junior Intern&lt;/h2&gt;
 &lt;p&gt;The beginning of a great career. As a Junior Intern at Internet Affairs Inc., I had the opportunity to work on various projects that helped me develop my technical and professional skills. Working alongside experienced developers, I contributed to the company&amp;rsquo;s core web applications and learned industry best practices in software development.&lt;/p&gt;
-&lt;p&gt;During my internship, I took the initiative to create an internal documentation wiki that improved knowledge sharing across teams. This project taught me valuable lessons in technical writing and collaboration. I also participated in code reviews and daily stand-ups, gaining firsthand experience in agile development methodologies.&lt;/p&gt;</description></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;!-- 
+&lt;p&gt;During my internship, I took the initiative to create an internal documentation wiki that improved knowledge sharing across teams. This project taught me valuable lessons in technical writing and collaboration. I also participated in code reviews and daily stand-ups, gaining firsthand experience in agile development methodologies.&lt;/p&gt;</description></item><item><title>Footer</title><link>https://jost.engineer/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jost.engineer/footer/footer/</guid><description>&lt;!-- 
 
  
 
@@ -195,7 +195,7 @@ params:
  &lt;div class="rad-subscription-group"&gt;
  &lt;form
  id="rad-subscription"
- action="http://localhost:1313/"
+ action="https://jost.engineer/"
  method="POST"
  &gt;
  &lt;input
@@ -226,7 +226,7 @@ params:
  
  &lt;/p&gt;
  &lt;/div&gt;
- &lt;script src='http://localhost:1313/js/subscription.js'&gt;&lt;/script&gt;
+ &lt;script src='https://jost.engineer/js/subscription.js'&gt;&lt;/script&gt;
  &lt;/div&gt;
  &lt;small id="emailHelp" class="form-text text-muted"&gt;
  
@@ -267,7 +267,7 @@ params:
  
  
  &lt;div class="text-section__content"&gt;
- &lt;p&gt;Additional content added after the &lt;code&gt;section&lt;/code&gt; blocks.&lt;/p&gt;</description></item><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;!-- &lt;em&gt;italic&lt;/em&gt; and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'&gt;&lt;code&gt;home.md&lt;/code&gt;&lt;/a&gt;, using the &lt;code&gt;showcase-section&lt;/code&gt; &lt;a href=''&gt;shortcode&lt;/a&gt;. --&gt;
+ &lt;p&gt;Additional content added after the &lt;code&gt;section&lt;/code&gt; blocks.&lt;/p&gt;</description></item><item><title>Home</title><link>https://jost.engineer/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jost.engineer/home/home/</guid><description>&lt;!-- &lt;em&gt;italic&lt;/em&gt; and normal text. This comes from &lt;a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'&gt;&lt;code&gt;home.md&lt;/code&gt;&lt;/a&gt;, using the &lt;code&gt;showcase-section&lt;/code&gt; &lt;a href=''&gt;shortcode&lt;/a&gt;. --&gt;
 
 
 
@@ -289,7 +289,7 @@ params:
  &lt;span&gt;I'm a Machine Learning Engineer and Computational Biologist in Boston.&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- &lt;strong&gt;This is my website, check it out!&lt;/strong&gt;&lt;br/&gt; I'm a computational biologist working at the intersection of cancer and machine learning. I work to develop models that generate novel biological hypotheses at Harvard Medical School in the &lt;a href="https://www.labsyspharm.org"&gt;Laboratory for Systems Pharmacology&lt;/a&gt; and &lt;a href="https://nirmallab.com"&gt;Nirmal Lab&lt;/a&gt; using AI and digital pathology. Before this I did both wet and dry lab with single-cell RNA sequencing in the &lt;a href="https://www.brocklab.com"&gt;Brock Lab&lt;/a&gt;. &lt;br/&gt; If you want to know more about me, check out my GitHub (below) or email me at ty.jost [at] gmail.com
+ &lt;strong&gt;This is my website, check it out!&lt;/strong&gt;&lt;br/&gt; I'm a computational biologist working at the intersection of cancer and machine learning. I work to develop models that generate novel biological hypotheses at Harvard Medical School in the &lt;a href="https://www.labsyspharm.org"&gt;Laboratory for Systems Pharmacology&lt;/a&gt; and &lt;a href="https://nirmallab.com"&gt;Nirmal Lab&lt;/a&gt; using AI and digital pathology. Before this I did both wet and dry lab with single-cell RNA sequencing in the &lt;a href="https://www.brocklab.com"&gt;Brock Lab&lt;/a&gt;. &lt;br/&gt; If you're interested in finding a playlist of artists playing in Boston or Austin this week check out the TWiM tab above! &lt;br/&gt; If you want to know more about me, check out my GitHub (below) or email me at ty.jost [at] gmail.com 
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -318,14 +318,14 @@ params:
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/medeblur_hu_da0f06f7a1cb174b.webp 1x, http://localhost:1313/images/showcase/medeblur_hu_3910b0b5e3e08c8b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/medeblur_hu_643d6c077c4d7409.jpg 1x, http://localhost:1313/images/showcase/medeblur_hu_e7894c5dcfeb5981.jpg 2x" type="image/jpeg"&gt;
+ &lt;source srcset="https://jost.engineer/images/showcase/medeblur_hu_da0f06f7a1cb174b.webp 1x, https://jost.engineer/images/showcase/medeblur_hu_3910b0b5e3e08c8b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://jost.engineer/images/showcase/medeblur_hu_643d6c077c4d7409.jpg 1x, https://jost.engineer/images/showcase/medeblur_hu_e7894c5dcfeb5981.jpg 2x" type="image/jpeg"&gt;
 
  &lt;img
  width="510"
  height="463"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/medeblur_hu_643d6c077c4d7409.jpg"
+ data-src="https://jost.engineer/images/showcase/medeblur_hu_643d6c077c4d7409.jpg"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -400,7 +400,7 @@ params:
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="dribbble"
@@ -410,7 +410,7 @@ params:
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="behance"
@@ -420,7 +420,7 @@ params:
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="youtube"
@@ -450,7 +450,7 @@ params:
  &lt;!-- 
  
 &lt;a
- href="http://localhost:1313/"
+ href="https://jost.engineer/"
  target="_blank"
  rel="noopener noreferrer"
  aria-label="codepen"
@@ -598,14 +598,14 @@ params:
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/boston_hu_b13655339c97aee2.webp 1x, http://localhost:1313/images/about/boston_hu_9cafad9b9bdd4e17.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/boston_hu_cb0c53ba6099944.png 1x, http://localhost:1313/images/about/boston_hu_ca35c9a32e62f3ef.png 2x" type="image/png"&gt;
+ &lt;source srcset="https://jost.engineer/images/about/boston_hu_b13655339c97aee2.webp 1x, https://jost.engineer/images/about/boston_hu_9cafad9b9bdd4e17.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="https://jost.engineer/images/about/boston_hu_cb0c53ba6099944.png 1x, https://jost.engineer/images/about/boston_hu_ca35c9a32e62f3ef.png 2x" type="image/png"&gt;
 
  &lt;img
  width="1158"
  height="543"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/boston_hu_cb0c53ba6099944.png"
+ data-src="https://jost.engineer/images/about/boston_hu_cb0c53ba6099944.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -701,7 +701,7 @@ params:
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -726,7 +726,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3.es-copy/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-3.es-copy/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -748,7 +748,7 @@ In my role, I also serve as a member of the executive board, helping shape the c
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -772,13 +772,13 @@ My most significant achievement was the successful implementation of a machine l
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="https://jost.engineer/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
  
  &lt;img 
- src="http://localhost:1313/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
+ src="https://jost.engineer/images/experience/internet-affairs_hu_c3e642ec43df5fb9.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -844,7 +844,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4"&gt;
  &lt;a
- href='http://localhost:1313/skills'
+ href='https://jost.engineer/skills'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -858,7 +858,7 @@ Through these experiences, I built a strong foundation in software development a
  
  &lt;div class="col-12 col-lg-4"&gt;
  &lt;a
- href='http://localhost:1313/experience'
+ href='https://jost.engineer/experience'
  class="btn btn-frameless w-100"
  rel="noopener noreferrer"
  &gt;
@@ -909,9 +909,9 @@ Through these experiences, I built a strong foundation in software development a
  &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0"&gt;
  &lt;h1&gt;Job #3&lt;/h1&gt;
  &lt;h2 id="3rd-job-cio"&gt;3rd job: CIO&lt;/h2&gt;
-&lt;p&gt;As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p&gt;</description></item><item><title>Printable CV</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;p&gt;ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29"&gt;https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a&gt;. Try printing it directly from your browser!&lt;/p&gt;
+&lt;p&gt;As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p&gt;</description></item><item><title>Printable CV</title><link>https://jost.engineer/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jost.engineer/cv/</guid><description>&lt;p&gt;ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29"&gt;https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a&gt;. Try printing it directly from your browser!&lt;/p&gt;
 &lt;h3 id="about-me"&gt;About me&lt;/h3&gt;
-&lt;p&gt;I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p&gt;</description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item><item><title>This Week in Music</title><link>http://localhost:1313/twim/post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/twim/post/</guid><description>&lt;p&gt;Here are the upcoming artists playing in Boston:&lt;/p&gt;
+&lt;p&gt;I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p&gt;</description></item><item><title>Search</title><link>https://jost.engineer/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jost.engineer/search/</guid><description>search</description></item><item><title>This Week in Music</title><link>https://jost.engineer/twim/post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jost.engineer/twim/post/</guid><description>&lt;p&gt;Here are the upcoming artists playing in Boston:&lt;/p&gt;
 &lt;iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1dMrLRiRtzAq1Ad9Mx6A95?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;
 &lt;p&gt;Here are the upcoming artists playing in Austin:&lt;/p&gt;
 &lt;iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7oWlCMpyEMTjvu1GwIoDMN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"&gt;&lt;/iframe&gt;</description></item></channel></rss>
