@@ -16,6 +16,8 @@ I work mostly solo, meaning I'm my own manager for many of my daily coding tasks
 
 A RAG application is a great opportunity to address this, and even comes with some unexpected uses. The main goal, however, will be to automate an "expert" code commit review and summary for each week. This can remind me of what I've done, where I should go next, and how I can make better commits. 
 
+
+![Tux, the Linux mascot](images/labLedger.png)
 ## What is a RAG Application?
 The primary goal of our RAG application will be to provide an LLM with focused information, so that it can cite things (such as our commits) without hallucination. It will:
 
@@ -79,3 +81,5 @@ I know it seems like a lot, but this has the power to completely alter my workfl
 While it seemed intimidating at first, this was hugely informative that RAG applications are actually pretty basic. I know we're living in the world of LLM-wrappers, but this enables us to better understand our commits in a targeted way while minimizing hallucination. It also helps me better understand how and why my commits are so terrible. 
 
 One other thing I'd like to note that I learned is that AI coding tools are becoming increasingly important for my understanding of new tools. The way I like to learn things is typically by coming up with an idea, finding an example, and hacking at it until I understand the code and it starts to do what I want it to do. This usually involved a lot of googling, time on forums and Stack Overflow, and some documentation. Now it's a lot different. I think good developers and coders will need to increasingly read *more* documentation in combination with mandatory AI coding tools. Unfortunately, code snippets are far easier to come by now from AI than anywhere else. However, I once again found these lacking and had to go do a lot of documentation digging. Clearly I have plenty of things to work on, but this was an amazing project for its practicality, novelty, and overall learning experience. 
+
+If you're interested in digging more into the code, check out my repo on github [here](https://www.github.com/tylerjost/labLedger).
