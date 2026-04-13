@@ -16,8 +16,9 @@ I work mostly solo, meaning I'm my own manager for many of my daily coding tasks
 
 A RAG application is a great opportunity to address this, and even comes with some unexpected uses. The main goal, however, will be to automate an "expert" code commit review and summary for each week. This can remind me of what I've done, where I should go next, and how I can make better commits. 
 
+Here's a basic overview of the workflow for LabLedger from ingestion to LLM review:
+![](images/labLedger.png)
 
-![Tux, the Linux mascot](images/labLedger.png)
 ## What is a RAG Application?
 The primary goal of our RAG application will be to provide an LLM with focused information, so that it can cite things (such as our commits) without hallucination. It will:
 
