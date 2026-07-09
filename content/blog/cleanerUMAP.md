@@ -9,13 +9,13 @@ tags:
   - programming
 ---
 # Your UMAP Doesn't Look Good
-Sorry, but it doesn't! But that's OK, you just work in an industry that prioritizes quick results over aesthetics. The default UMAP plots from scanpy and Seurat are certainly serviceable, but no matter what journal you publish in, you deserve to have a clean looking plot that more effectively communicates your data!
+Sorry, but it doesn't! But that's OK, you just work in an industry that prioritizes quick results over aesthetics. The default UMAP plots from scanpy and Seurat are certainly serviceable, but no matter what journal you publish in, you deserve to have a clean-looking plot that more effectively communicates your data!
 
 I know lots of people spend their whole lives perfecting data visualizations. I am not one of those people, I am just an opinionated researcher with a bit too much time on my hands. 
 
 ## Why does this matter?
 
-There's a story I think about a lot. In college I took a classics course, and the professor asked us why there was all of this ornate architecture around campus. Baylor is an old university, especially for Texas, and so it has a very old style of architecture. Our professor explained to us that the spires on top of the building, the iconic deep red brick, and the incredible detail all were meant to inspire. Beauty is inspiring. It makes us think deeper and dream about what is possible. Believe it or not, I sometimes feel the same way when I look at a really beautiful plot. 
+There's a story I think about a lot. In college I took a classics course, and the professor asked us why there was all of this ornate architecture around campus. Baylor is an old university, especially for Texas, and so it has a very old style of architecture. Our professor explained to us that the spires on top of the buildings, the iconic deep red brick, and the incredible detail all were meant to inspire. Beauty is inspiring. It makes us think deeper and dream about what is possible. Believe it or not, I sometimes feel the same way when I look at a really beautiful plot. 
 
 ## What's wrong with my UMAP?
 Wrong might not be the right word, but they certainly don't look good. For example, if I just make a very basic plot of some Louvain clusters from the `PBMC68K` dataset like so:
@@ -49,10 +49,11 @@ So let's do something different. Let's make a plot that:
 - Uses distinctive colors
 - Maintains a clean aesthetic
 
-To do this, we'll shorted the axes to be arrows. No tick marks are necessary because UMAP is a non-linear dimensionality reduction method. This is the crux of most of it, outside of ensuring our font sizes are approriate and all of the basic data visualization guidelines. This requires some Matplotlib trickery, though, so watch out. Here's the code:
+To do this, we'll shorten the axes to be arrows. No tick marks are necessary because UMAP is a non-linear dimensionality reduction method. This is the crux of most of it, outside of ensuring our font sizes are approriate and all of the basic data visualization guidelines. This requires some Matplotlib trickery, though, so watch out. I think it self-documents fairly well, first by instantiating a plot, plotting the actual data, swapping the axis lines for arrows, then finishing up the labeling. Here's the code:
 
 ```
-# Variable tex size, movement of text from the axis, and proportional length of arrows
+# Assumes you're using the data from above!
+# Variable text size, movement of text from the axis, and proportional length of arrows
 fontSize = 10
 axisSep = 0.2
 arrowProp = 0.15
@@ -130,6 +131,7 @@ And here's the output:
 
 <img src="/images/umap/cleanerUMAP.png" style="width: 75%; height: auto;" alt="Cleaner UMAP Output">
 
-For my money, this is a much better plot that accomplished our goals. The code might be long, but the actual programming bit is only about 9 lines here. I'd also recommend playing around with your own color scheme. Some UMAP plots, especially in the single-cell world, need darker colors from a qualitative palette in order to get proper contrast. The rest is fairly standard. You can play around with some of the variables at the beginning, but for the most part everything can remain static.
+
+For my money, this is a much better plot that accomplishes our goals. The code might be longer than if we just blindly plotted everything, but the actual programming bit is only about 9 lines here. I'd also recommend playing around with your own color scheme. Some UMAP plots, especially in the single-cell world, need darker colors from a qualitative palette in order to get proper contrast. The rest is fairly standard. You can play around with some of the variables at the beginning, but for the most part everything can remain static.
 
 It's a short one, but hopefully you can see how just a few changes can make a plot look much better.
