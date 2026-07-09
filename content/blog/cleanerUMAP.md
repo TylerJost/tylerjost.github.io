@@ -1,7 +1,7 @@
 ---
 title: "Making a Cleaner UMAP Plot"
 date: 2026-07-09
-draft: true
+draft: false
 type: 'blog'
 featured: false
 tags: 
@@ -20,7 +20,7 @@ There's a story I think about a lot. In college I took a classics course, and th
 ## What's wrong with my UMAP?
 Wrong might not be the right word, but they certainly don't look good. For example, if I just make a very basic plot of some Louvain clusters from the `PBMC68K` dataset like so:
 
-```
+````
 import scanpy as sc
 import matplotlib.pyplot as plt
 
