@@ -242,6 +242,7 @@
       "page-Zoo",
       "page-asgardia",
       "page-blog",
+      "page-cleanerUMAP",
       "page-cv",
       "page-dana-oneal",
       "page-earth2.0",
@@ -396,8 +397,11 @@
       "unfortunately-we-need-an-llm",
       "what-is-a-rag-application",
       "whats-next",
+      "whats-wrong-with-my-umap",
+      "why-does-this-matter",
       "why-revive-a-website-4-years-later",
-      "wordcount"
+      "wordcount",
+      "your-umap-doesnt-look-good"
     ]
   }
 }

@@ -20,7 +20,7 @@ There's a story I think about a lot. In college I took a classics course, and th
 ## What's wrong with my UMAP?
 Wrong might not be the right word, but they certainly don't look good. For example, if I just make a very basic plot of some Louvain clusters from the `PBMC68K` dataset like so:
 
-````
+```
 import scanpy as sc
 import matplotlib.pyplot as plt
 
@@ -34,11 +34,12 @@ sc.pl.umap(adata, color="louvain", ax=ax)
 ax.get_figure().savefig(
     "./figures/exampleLouvainDefault.png", dpi=500, bbox_inches="tight"
 )
+
 ```
 
 I get a plot that is serviceable for sure. I see the clustering and I may get some ideas about where to go next in my analysis. There are some problems (to me), though. The first is the color scheme has multiple colors which are very similar in shade. It needs a qualitative color scheme. The second is that it just looks...kinda ugly. Louvain isn't capitalized. There's no legend. And it certainly doesn't evoke a sense of wonder (maybe that's too far). 
 
-![](images/umap/exampleLouvainDefault.png)
+<img src="/images/umap/exampleLouvainDefault.png" style="width: 75%; height: auto;" alt="Cleaner UMAP Output">
 
 Seurat has other issues, especially for a package named after a painter. Everything about those plots, from the blaring `UMAP_1` with its underscore to its units on a unitless axis, make me wince. 
 
@@ -50,7 +51,7 @@ So let's do something different. Let's make a plot that:
 
 To do this, we'll shorted the axes to be arrows. No tick marks are necessary because UMAP is a non-linear dimensionality reduction method. This is the crux of most of it, outside of ensuring our font sizes are approriate and all of the basic data visualization guidelines. This requires some Matplotlib trickery, though, so watch out. Here's the code:
 
-```{python{}}
+```
 # Variable tex size, movement of text from the axis, and proportional length of arrows
 fontSize = 10
 axisSep = 0.2
@@ -122,9 +123,12 @@ ax.set_title("PBMC 68K Louvain Clusters", loc="left")
 fig.legend(markerscale=2, fontsize=fontSize, loc="center right", bbox_to_anchor=[1.1, 0.5], title='Cluster')
 
 plt.savefig("./figures/cleanerUMAP.png", dpi=500, bbox_inches="tight")
+
 ```
+
 And here's the output:
-![](images/umap/cleanerUMAP.png)
+
+<img src="/images/umap/cleanerUMAP.png" style="width: 75%; height: auto;" alt="Cleaner UMAP Output">
 
 For my money, this is a much better plot that accomplished our goals. The code might be long, but the actual programming bit is only about 9 lines here. I'd also recommend playing around with your own color scheme. Some UMAP plots, especially in the single-cell world, need darker colors from a qualitative palette in order to get proper contrast. The rest is fairly standard. You can play around with some of the variables at the beginning, but for the most part everything can remain static.
 
